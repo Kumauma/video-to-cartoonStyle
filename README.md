@@ -9,8 +9,8 @@ When it comes to making Cartoon-style videos, the conversion process is very slo
 
 ## Result
 <center>
-    https://user-images.githubusercontent.com/51203951/9f3a9896-66ad-4ae3-aa35-7aa10e7efb73.mp4
-    <h4>A Cartoon-Style video of a real person</h4>
-    https://user-images.githubusercontent.com/51203951/5563ec9b-0ded-4aa1-9e20-49ddad8c99ac.mp4
-    <h4>Transform animations so that they don't feel Cartoon-Style</h4>
+    <img width="70%" src="https://github.com/Kumauma/video-to-cartoonStyle/assets/51203951/1ff062bb-e854-451e-bd47-aa27c32198b8"/>
+    <h4>Cartoon-Style video of a real person</h4>
+    <img width="70%" src="https://github.com/Kumauma/video-to-cartoonStyle/assets/51203951/f2a4e750-662f-4a59-9469-daac8a7a1d07"/>
+    <h4>Not Cartoon-Style video of an Animation</h4>
 </center>
