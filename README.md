@@ -2,7 +2,9 @@
 This program converts a given video into an video that expresses a cartoon-like feeling well, and also converts it into an image that does not express a cartoon-like feeling well.
 
 <center>
+    https://github.com/Kumauma/video-to-cartoonStyle/assets/51203951/9f3a9896-66ad-4ae3-aa35-7aa10e7efb73
     <h4>A Cartoon-Style video of a real person</h4>
+    https://github.com/Kumauma/video-to-cartoonStyle/assets/51203951/5563ec9b-0ded-4aa1-9e20-49ddad8c99ac
     <h4>Transform animations so that they don't feel Cartoon-Style</h4>
 </center>
 
