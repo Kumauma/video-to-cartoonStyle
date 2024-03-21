@@ -1,4 +1,4 @@
-# video-to-cartoonStyle
+# Video to Cartoon Style Program
 This program converts a given video into an video that expresses a cartoon-like feeling well, and also converts it into an image that does not express a cartoon-like feeling well.
 
 ## How to Use
