@@ -66,7 +66,8 @@ def img_to_notCartoon(image):
     return img_notCartoon
 
 
-video_file = "IVE_WONYOUNG_LoveDive.mp4"
+# 비디오 파일 이름
+video_file = "your_video_path.mp4"
 
 target_format = "mp4"
 target_fourcc = "DIVX"
